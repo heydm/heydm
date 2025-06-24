@@ -69,9 +69,9 @@
 
   ### ⏱ Most Used Languages
  <div align=center>
-
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=heydm&theme=react"/>
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heydm&theme=react)
+  
 
 
  </div>      
