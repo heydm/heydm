@@ -8,6 +8,16 @@
   
 </p>
 
+<hr>
+
+<pre>
+💻 Systems Engineer with experience in full-stack application development.
+📚 Bachelor's Degree in Systems Engineering.
+🛠️ Technologies such as HTML, CSS, JavaScript, PHP, MySQL, and SQL Server.
+</pre>
+<hr>
+
+
 <p align="center">
     <a target="_blank"><img src="https://komarev.com/ghpvc/?username=heydm&style=for-the-badge" alt="Profile views" height="25" /></a>
  
